@@ -32,3 +32,5 @@
 #### Project  
 
 [웹캠을 이용한 남자 연예인 닮은 꼴 찾기](https://github.com/KR-LJH/alwebapp)
+[주소록 관리 프로그램](https://github.com/KR-LJH/addressbook)
+[택배상자를 인식하는 yolov5](https://github.com/KR-LJH/DeliBox)
